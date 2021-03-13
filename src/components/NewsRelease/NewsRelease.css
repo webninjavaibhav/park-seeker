@@ -1,0 +1,33 @@
+.news-release-div li {
+    list-style: none;
+}
+
+.news-release-div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background: #f8fcff;
+    border-radius: 10px;
+    border: 1px solid #001529;
+}
+
+.news-release-div h1 {
+    font-size: 25px;
+    color: #001529;
+    border-bottom: 3px solid #ffc800;
+    display: inline-block;
+    font-weight: 700;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+}
+
+.news-release-div h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.news-release-div p {
+    color: #757575;
+    font-size: 16px;
+}

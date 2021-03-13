@@ -1,0 +1,26 @@
+.park-card-wrapper {
+    padding: 10px 0;
+}
+
+.ant-card-default {
+    display: flex;
+    margin: 30px 0;
+    box-shadow: 0 0 8px 5px #00000030;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.ant-card-default .ant-card-cover {
+
+    flex-basis: 30%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 5px;
+}
+
+.ant-card-default .ant-card-cover img {
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px 0 0 10px;
+}

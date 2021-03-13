@@ -1,0 +1,35 @@
+.ant-tag {
+    margin: 8px 8px 8px 0;
+    background: #eaf5ff;
+}
+
+.ant-card-meta-detail {
+    margin-bottom: 20px;
+}
+
+.ant-card-meta-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #001529;
+}
+
+.ant-card-meta-description {
+    font-size: 16px;
+}
+
+.ant-card-body h3 {
+    font-weight: bold;
+    color: #001529;
+}
+
+.ant-card-body a {
+    font-size: 16px;
+    color: #001529;
+    text-align: right;
+    display: block;
+    margin-top: 20px;
+}
+
+.ant-card-body a span {
+    margin-right: 10px;
+}

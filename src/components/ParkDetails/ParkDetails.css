@@ -1,0 +1,67 @@
+.layout-park-details ul {
+    padding: 0;
+}
+
+.park-detail-img {
+    width: 100%;
+    object-fit: cover;
+    transition: all 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+.layout-park-details > div {
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    background: #f8fcff;
+    border-radius: 10px;
+    border: 1px solid #001529;
+}
+
+.layout-park-details > div h1 span {
+    font-size: 18px;
+    margin-left: 1rem;
+}
+
+.park-timing {
+    text-transform: capitalize;
+}
+
+.layout-park-details li {
+    list-style: none;
+    font-size: 16px;
+}
+
+.anticon {
+    color: #001529;
+    margin-right: 10px;
+}
+
+.layout-park-details h1 {
+    font-size: 25px;
+    color: #001529;
+    border-bottom: 3px solid #ffc800;
+    display: inline-block;
+    font-weight: 700;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+}
+
+.layout-park-details > div h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.entrance-fees p {
+    color: #757575;
+}
+
+.layout-park-details {
+    margin-top: 20px;
+}
+
+.park-event p {
+    color: #757575;
+    font-size: 16px;
+}
+
